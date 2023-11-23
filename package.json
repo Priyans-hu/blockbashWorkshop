@@ -17,9 +17,20 @@
     "generate": "dfx generate blockbashWorkshop_backend"
   },
   "dependencies": {
-    "@dfinity/agent": "^0.20.1",
-    "@dfinity/candid": "^0.20.1",
-    "@dfinity/principal": "^0.20.1"
+    "@dfinity/agent": "^0.19.3",
+    "@dfinity/candid": "^0.19.3",
+    "@dfinity/principal": "^0.19.3",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.14.14",
+    "@mui/material": "^5.14.14",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "ts-loader": "^9.5.1"
   },
   "devDependencies": {
     "assert": "2.0.0",
